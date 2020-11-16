@@ -66,7 +66,7 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-It doesn’t have to be perfect, I think this project do not have to solve output accuracy issues.
+I dont see this project to solve any output accuracy issues.
 It doesn’t have to learn from the inputs, or to use inputs to train any model?
 
 ## What next?
