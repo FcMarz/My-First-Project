@@ -8,15 +8,16 @@ A story generator, with user defined vocabulary as input.
 
 
 ## Background
+I’m learning German, while using Lingvist to expand my vocabulary, I found there are some words which I can hardly makes any connection with them. Once it’s out of the sentence I read/remember, I can’t really recall them - hence, not knowing it by heart.
 
 * problem 1: I work with my own vocabulary list, with fixed sentence examples
 * problem 2: The different sentences have too wide of a coverage, make it hard to memorize
 * problem 3: If I need to learn different meaning of the word, I need to search different sentences manually on internet
 * problem 4: If I need to see different words in one context, I need to hire people to write it for me 
 
-* Frequency: almost everyday
-* Motivation: my frustration from constant demotivation because of the the incapability of using German for communication
+This happens everyday - as long as I try to keep a routine on learning vocabulary. What drives me is my frustration from constant demotivation because of the the incapability of using German for communication, and of course the urgency to understand this culture and be able to use the language to experience the culture.
 
+Why important or interesting?
 * Time saving for learners
 * Save a lot of effort to make the context for vocabulary expansion 
 
