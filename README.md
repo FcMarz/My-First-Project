@@ -50,6 +50,9 @@ def main():
 main()
 ```
 
+* In context of horning the “hard candies”. 
+* By language learner. Learner, Teachers, will all be affected 
+* It might also generate a new service (value) for monetisation - proof reading.
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
@@ -63,20 +66,17 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+It doesn’t have to be perfect, I think this project do not have to solve output accuracy issues.
+It doesn’t have to learn from the inputs, or to use inputs to train any model?
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+1. Make it possible to generate stories in series, aka, the new story have certain connected to the old ones, so build consistency/relevancy.
+2. Make the story relevant to current affairs and news? - so that learner already have some kind of “knowledge” about the subject
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
-* <br> [Building AI fromUniversity of Helsinki and Reaktor] (https://buildingai.elementsofai.com/Conclusion/your-ai-idea)
-* <br> "Zamia AI project - German GPT-2 Model: http://zamia-speech.org/brain/2019/11/20/384M-German-GPT-2-Model-Finished.html
+Sources of inspiration 
+* [Building AI fromUniversity of Helsinki and Reaktor](https://buildingai.elementsofai.com/Conclusion/your-ai-idea) / unknown licenses
+* ["Zamia AI project - German GPT-2 Model](http://zamia-speech.org/brain/2019/11/20/384M-German-GPT-2-Model-Finished.html) / unknown licenses
 
